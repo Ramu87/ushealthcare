@@ -6,7 +6,7 @@ Copay
 Coinsurance
 
 
-
+out of pocket
 
 
 
