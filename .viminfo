@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1733743981,,"wq!"
+|2,0,1733744624,,"wq!"
+:q!
+|2,0,1733744272,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +27,38 @@
 # Registers:
 
 # File marks:
-'0  11  3  ~/ushealthcare.sh
-|4,48,11,3,1733743981,"~/ushealthcare.sh"
-'1  9  12  ~/ushealthcare.sh
-|4,49,9,12,1733743490,"~/ushealthcare.sh"
-'2  9  12  ~/ushealthcare.sh
-|4,50,9,12,1733743490,"~/ushealthcare.sh"
-'3  9  9  ~/ushealthcare.sh
-|4,51,9,9,1733743392,"~/ushealthcare.sh"
-'4  9  9  ~/ushealthcare.sh
-|4,52,9,9,1733743392,"~/ushealthcare.sh"
-'5  6  10  ~/ushealthcare.sh
-|4,53,6,10,1733742496,"~/ushealthcare.sh"
-'6  6  10  ~/ushealthcare.sh
-|4,54,6,10,1733742496,"~/ushealthcare.sh"
-'7  6  10  ~/ushealthcare.sh
-|4,55,6,10,1733742496,"~/ushealthcare.sh"
-'8  6  10  ~/ushealthcare.sh
-|4,56,6,10,1733742496,"~/ushealthcare.sh"
-'9  6  10  ~/ushealthcare.sh
-|4,57,6,10,1733742496,"~/ushealthcare.sh"
+'0  11  6  ~/ushealthcare.sh
+|4,48,11,6,1733744624,"~/ushealthcare.sh"
+'1  11  3  ~/ushealthcare.sh
+|4,49,11,3,1733744272,"~/ushealthcare.sh"
+'2  11  3  ~/ushealthcare.sh
+|4,50,11,3,1733743981,"~/ushealthcare.sh"
+'3  11  3  ~/ushealthcare.sh
+|4,51,11,3,1733743981,"~/ushealthcare.sh"
+'4  9  12  ~/ushealthcare.sh
+|4,52,9,12,1733743490,"~/ushealthcare.sh"
+'5  9  12  ~/ushealthcare.sh
+|4,53,9,12,1733743490,"~/ushealthcare.sh"
+'6  9  12  ~/ushealthcare.sh
+|4,54,9,12,1733743490,"~/ushealthcare.sh"
+'7  9  12  ~/ushealthcare.sh
+|4,55,9,12,1733743490,"~/ushealthcare.sh"
+'8  9  12  ~/ushealthcare.sh
+|4,56,9,12,1733743490,"~/ushealthcare.sh"
+'9  9  12  ~/ushealthcare.sh
+|4,57,9,12,1733743490,"~/ushealthcare.sh"
 
 # Jumplist (newest first):
+-'  11  6  ~/ushealthcare.sh
+|4,39,11,6,1733744624,"~/ushealthcare.sh"
+-'  11  3  ~/ushealthcare.sh
+|4,39,11,3,1733744272,"~/ushealthcare.sh"
 -'  11  3  ~/ushealthcare.sh
 |4,39,11,3,1733743981,"~/ushealthcare.sh"
+-'  9  9  ~/ushealthcare.sh
+|4,39,9,9,1733743966,"~/ushealthcare.sh"
+-'  9  9  ~/ushealthcare.sh
+|4,39,9,9,1733743966,"~/ushealthcare.sh"
 -'  9  9  ~/ushealthcare.sh
 |4,39,9,9,1733743966,"~/ushealthcare.sh"
 -'  9  12  ~/ushealthcare.sh
@@ -62,7 +72,15 @@
 -'  6  10  ~/ushealthcare.sh
 |4,39,6,10,1733743381,"~/ushealthcare.sh"
 -'  6  10  ~/ushealthcare.sh
+|4,39,6,10,1733743381,"~/ushealthcare.sh"
+-'  6  10  ~/ushealthcare.sh
+|4,39,6,10,1733743381,"~/ushealthcare.sh"
+-'  6  10  ~/ushealthcare.sh
 |4,39,6,10,1733742496,"~/ushealthcare.sh"
+-'  3  4  ~/ushealthcare.sh
+|4,39,3,4,1733742485,"~/ushealthcare.sh"
+-'  3  4  ~/ushealthcare.sh
+|4,39,3,4,1733742485,"~/ushealthcare.sh"
 -'  3  4  ~/ushealthcare.sh
 |4,39,3,4,1733742485,"~/ushealthcare.sh"
 -'  3  4  ~/ushealthcare.sh
@@ -83,16 +101,20 @@
 |4,39,1,0,1733742315,"~/ushealthcare.sh"
 -'  1  0  ~/ushealthcare.sh
 |4,39,1,0,1733742315,"~/ushealthcare.sh"
+-'  1  0  ~/ushealthcare.sh
+|4,39,1,0,1733742315,"~/ushealthcare.sh"
+-'  1  0  ~/ushealthcare.sh
+|4,39,1,0,1733742315,"~/ushealthcare.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/ushealthcare.sh
-	*	1733743980	0
-	"	11	3
-	^	11	4
-	.	11	3
+	*	1733744621	0
+	"	11	6
+	^	11	7
+	.	11	6
 	+	18	0
 	+	3	5
 	+	6	11
 	+	9	10
-	+	11	3
+	+	11	6
